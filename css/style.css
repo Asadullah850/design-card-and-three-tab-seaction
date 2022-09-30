@@ -71,6 +71,7 @@
 }
 .tab-icon:hover{
     background-color: var(--Drak-BLUE-color);
+    background-color: #3c22e4;
     color: #ffff;
 }
 .tab-icon i{
